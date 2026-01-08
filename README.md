@@ -1,4 +1,3 @@
-## Hi there 👋
 
 ## Hi there 👋
 
@@ -38,6 +37,6 @@ I’m **Christian Marin**, a Computer Science graduate and aspiring software eng
 - LinkedIn: *(https://www.linkedin.com/in/christian-marin2003/)*
 
 ### ⚡ Fun fact
-I enjoy both **debugging code** and **writing guitar riffs** — different languages, same logic.
+I enjoy both **debugging code** and **guitar** — different languages, same logic.
 
 ---
