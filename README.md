@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-I’m **Christian Marin**, a Computer Science graduate and aspiring software engineer with a strong interest in **systems, backend development, and emerging technologies**.
+I’m **Christian Marin**, a Computer Science student and aspiring software engineer with a strong interest in **systems, backend development, and emerging technologies**.
 
 ### 👨‍💻 About me
 - 🎓 Computer Science B.S.
