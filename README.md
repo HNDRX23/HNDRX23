@@ -30,4 +30,4 @@ I'm **Christian Marin**, a Computer Science student and aspiring software engine
 
 ### 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-christian--marin--2003-blue?style=flat&logo=linkedin)](https://linkedin.com/in/christian-marin-2003)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-christian--marin--2003-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/christian-marin-2003](https://www.linkedin.com/in/-christian-marin/))
