@@ -15,7 +15,7 @@ I'm **Christian Marin**, a Computer Science student and aspiring software engine
 
 ### 🔧 Technical Skills
 
-- **Languages:** Python, C++, C, JavaScript, SQL
+- **Languages:** Python, C++, C, JavaScript
 - **Concepts:** Data Structures, Algorithms, Databases, OS Fundamentals
 - **Tools:** Git, GitHub, Linux, VS Code
 
