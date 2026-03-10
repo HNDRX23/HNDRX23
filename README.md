@@ -25,7 +25,6 @@ I'm **Christian Marin**, a Computer Science student and aspiring software engine
 
 - Computer Science fundamentals
 - Learning programming from scratch
-- Transitioning from IT/Application Support to Software Engineering
 
 ---
 
