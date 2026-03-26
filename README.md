@@ -29,6 +29,7 @@ Also a Computer Science B.S. Student
 
 ## Stack
 
+
 | Category           | Technologies |
 |-------------------|-------------|
 | **Languages**      | JavaScript • Python |
@@ -46,5 +47,5 @@ Also a Computer Science B.S. Student
 
 ## Contact
 
-LinkedIn: [link]  
-Email: [email]
+LinkedIn: [https://www.linkedin.com/in/-christian-marin/]  
+Email: cmari115@fiu.edu
