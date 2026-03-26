@@ -1,33 +1,50 @@
-# Hi there 👋
 
-I'm **Christian Marin**, a Computer Science student and aspiring software engineer with a strong interest in **systems, backend development, and emerging technologies**.
 
----
+<h1 align="center"![LogowText](https://github.com/user-attachments/assets/1410e420-d9a9-4853-98e3-b3dd480061d5)
+> Christian Marin <img width="50" height="50" alt="Logo" src="https://github.com/user-attachments/assets/1596075f-1a1c-4305-97d5-911024d06dd8" />
+ </h1>
 
-### 🧑 About Me
-
-- 🎓 Computer Science B.S.
-- 💻 Focused on **Software Development, Application Support & Systems Analysis**
-- 🚀 Long-term interests: **Distributed Systems, Blockchain (non-crypto), Algorithms**
-- 🎸 Also a musician — blending logic and creativity wherever I can
+<p align="center">
+  Building SoundMeet • Full Stack • Systems
+</p>
 
 ---
 
-### 🔧 Technical Skills
+## About
 
-- **Languages:** Python, C++, C, JavaScript
-- **Concepts:** Data Structures, Algorithms, Databases, OS Fundamentals
-- **Tools:** Git, GitHub, Linux, VS Code
-
----
-
-### 🧠 Ask Me About
-
-- Computer Science fundamentals
-- Learning programming from scratch
+Building systems that connect people in real life.
+Currently leading **SoundMeet** — a location-based platform for musicians to discover each other and jam.
+Also a Computer Science B.S. Student
 
 ---
 
-### 📫 Connect
+## Focus
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-christian--marin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/-christian-marin/)
+- Full-stack development
+- Systems design
+- Real-time & location-based apps
+- Music + technology
+
+---
+
+## Stack
+
+| Category           | Technologies |
+|-------------------|-------------|
+| **Languages**      | JavaScript • Python |
+| **Frontend**       | React • Next.js • Tailwind |
+| **Backend**        | Node.js • Flask • Django |
+| **Database / Infra** | PostgreSQL (PostGIS) • Supabase |
+---
+
+## Current Work
+
+- SoundMeet (Web MVP)
+- Geospatial systems & real-time architecture
+
+---
+
+## Contact
+
+LinkedIn: [link]  
+Email: [email]
