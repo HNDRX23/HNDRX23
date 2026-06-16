@@ -40,7 +40,7 @@ Also a Computer Science B.S. Student
 
 ## Current Work
 
-- SoundMeet (Web MVP)
+- SoundMeet https://www.soundmeet.app/
 - Geospatial systems & real-time architecture
 
 ---
